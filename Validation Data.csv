@@ -1,0 +1,39 @@
+﻿Shape,Nanoparticle,Dissolution,Surface area,Surface charge,Surface coatings,Surface reactivity,Aggregation,Particle size,Administration nroute,Study type,Cytotoxicity,Neurological effects,Pulmonary effects,Fibrosis,RCNS effects,Immunological effects,Genotoxicity,Inflammation,NM Hazard
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,10 to 50,Oral,In vivo,,,,None,None,,,None,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,10 to 50,Oral,In vivo,,,,None,None,,,None,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,10 to 50,Oral,In vivo,,,,Medium,None,,,None,Medium
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,Medium,Low,,,,Medium,High
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,,,,,,,,None,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,,15 - 51,,,,High,>100,Oral,In vivo,None,,,,,,,,None
+Irregular,TiO2,,15 - 51,,,,High,>100,Oral,In vivo,Medium,,,,,,,,Medium
+Irregular,TiO2,,51 - 101.25,-50 to -25,Hydroxyl,,Medium,50 to 100,Oral,In vivo,,,None,,,None,,None,None
+Irregular,TiO2,,51 - 101.25,-50 to -25,Hydroxyl,,Medium,50 to 100,Oral,In vivo,,,Medium,,,None,,None,Medium
